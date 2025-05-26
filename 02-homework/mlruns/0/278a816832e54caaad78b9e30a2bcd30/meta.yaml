@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/278a816832e54caaad78b9e30a2bcd30/artifacts
+deleted_time: 1748296345073
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 278a816832e54caaad78b9e30a2bcd30
+run_name: efficient-grub-618
+run_uuid: 278a816832e54caaad78b9e30a2bcd30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748296081519
+status: 1
+tags: []
+user_id: codespace

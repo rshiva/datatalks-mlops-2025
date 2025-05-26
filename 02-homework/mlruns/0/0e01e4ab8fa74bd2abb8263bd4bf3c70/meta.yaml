@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/0e01e4ab8fa74bd2abb8263bd4bf3c70/artifacts
+deleted_time: 1748297220923
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 0e01e4ab8fa74bd2abb8263bd4bf3c70
+run_name: traveling-hawk-280
+run_uuid: 0e01e4ab8fa74bd2abb8263bd4bf3c70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748296352176
+status: 1
+tags: []
+user_id: codespace

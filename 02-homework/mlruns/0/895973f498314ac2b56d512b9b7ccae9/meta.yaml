@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/895973f498314ac2b56d512b9b7ccae9/artifacts
+deleted_time: 1748296345070
+end_time: 1748296011219
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 895973f498314ac2b56d512b9b7ccae9
+run_name: merciful-skink-266
+run_uuid: 895973f498314ac2b56d512b9b7ccae9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748295995101
+status: 4
+tags: []
+user_id: codespace

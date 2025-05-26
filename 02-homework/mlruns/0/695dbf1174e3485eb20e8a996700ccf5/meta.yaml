@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/695dbf1174e3485eb20e8a996700ccf5/artifacts
+end_time: 1748297116560
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 695dbf1174e3485eb20e8a996700ccf5
+run_name: thundering-cod-405
+run_uuid: 695dbf1174e3485eb20e8a996700ccf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748297102227
+status: 3
+tags: []
+user_id: codespace

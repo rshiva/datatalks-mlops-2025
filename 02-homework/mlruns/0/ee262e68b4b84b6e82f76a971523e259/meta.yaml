@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/ee262e68b4b84b6e82f76a971523e259/artifacts
+deleted_time: 1748296345078
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ee262e68b4b84b6e82f76a971523e259
+run_name: languid-roo-576
+run_uuid: ee262e68b4b84b6e82f76a971523e259
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748296163310
+status: 1
+tags: []
+user_id: codespace
