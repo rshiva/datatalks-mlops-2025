@@ -1,0 +1,31 @@
+services:
+  mage:
+    image: mageai/mageai:latest
+    command: mage start ${PROJECT_NAME}
+    env_file:
+      - .env
+    ports:
+      - 6789:6789
+    volumes:
+      - .:/home/src/
+    environment:
+      PROJECT_NAME: homework_03
+      USER_CODE_PATH: /home/src/homework_03
+    restart: on-failure
+    
+    networks:
+      - app-network
+  mlflow:
+    build:
+      context: .
+      dockerfile: mlflow.Dockerfile
+    ports:
+      - "5000:5000"
+    volumes:
+      - "${PWD}/mlflow_data:/home/mlflow_data/"
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge
