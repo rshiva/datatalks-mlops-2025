@@ -1,0 +1,12 @@
+apiVersion: 1
+datasources:
+  - name: PostgreSQL - Taxi Monitoring Data
+    type: postgres
+    url: grafana_db:5432
+    database:
+    user: postgres
+    secureJsonData:
+      password: example
+    jsonData:
+      sslmode: 'disable'
+      database: taxi_monitoring
