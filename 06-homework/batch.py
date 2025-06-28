@@ -43,6 +43,18 @@ def read_data(filename, categorical):
     
     return df
 
+def save_data(df, output_file):
+    S3_ENDPOINT_URL = os.getenv('S3_ENDPOINT_URL')
+    if S3_ENDPOINT_URL:
+        options = {
+            'client_kwargs': {
+                'endpoint_url': S3_ENDPOINT_URL
+            }
+        }
+        df.to_parquet(output_file, engine='pyarrow', index=False, storage_options=options)
+    else:
+        df.to_parquet(output_file, engine='pyarrow', index=False)
+
 def main(year, month):
     input_file = get_input_path(year, month)
     output_file = get_output_path(year, month)
@@ -71,16 +83,7 @@ def main(year, month):
     df_result['predicted_duration'] = y_pred
     
     
-    S3_ENDPOINT_URL = os.getenv('S3_ENDPOINT_URL')
-    if S3_ENDPOINT_URL:
-        options = {
-            'client_kwargs': {
-                'endpoint_url': S3_ENDPOINT_URL
-            }
-        }
-        df_result.to_parquet(output_file, engine='pyarrow', index=False, storage_options=options)
-    else:
-        df_result.to_parquet(output_file, engine='pyarrow', index=False)
+    save_data(df_result, output_file)
 
 
 if __name__ == '__main__':
