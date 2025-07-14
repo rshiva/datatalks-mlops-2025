@@ -1,0 +1,10 @@
+artifact_location: file:///Users/shiva/workspace/mlops/datatalks-mlops-2025/07-project-01/mlruns/875056642596853583/models/m-de012c6b5157425992e24803504bf930/artifacts
+creation_timestamp: 1752215994470
+experiment_id: '875056642596853583'
+last_updated_timestamp: 1752215996489
+model_id: m-de012c6b5157425992e24803504bf930
+model_type: null
+name: xgboost_model
+source_run_id: f2b51559dc5b488aa044b77c9ff334f1
+status: 2
+status_message: null

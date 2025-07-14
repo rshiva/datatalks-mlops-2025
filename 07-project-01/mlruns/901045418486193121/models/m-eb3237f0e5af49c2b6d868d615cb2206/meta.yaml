@@ -1,0 +1,10 @@
+artifact_location: file:///Users/shiva/workspace/mlops/datatalks-mlops-2025/07-project-01/mlruns/901045418486193121/models/m-eb3237f0e5af49c2b6d868d615cb2206/artifacts
+creation_timestamp: 1752532664109
+experiment_id: '901045418486193121'
+last_updated_timestamp: 1752532665717
+model_id: m-eb3237f0e5af49c2b6d868d615cb2206
+model_type: ''
+name: logistic_regression_model
+source_run_id: 1a3d5dc22152449ab27e532e8ac51bdd
+status: 2
+status_message: null

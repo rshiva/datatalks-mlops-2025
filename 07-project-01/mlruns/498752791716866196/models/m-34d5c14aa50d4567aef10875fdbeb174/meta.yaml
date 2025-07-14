@@ -1,0 +1,10 @@
+artifact_location: /Users/shiva/workspace/mlops/datatalks-mlops-2025/07-project-01/mlruns/498752791716866196/models/m-34d5c14aa50d4567aef10875fdbeb174/artifacts
+creation_timestamp: 1752533860002
+experiment_id: '498752791716866196'
+last_updated_timestamp: 1752533862558
+model_id: m-34d5c14aa50d4567aef10875fdbeb174
+model_type: ''
+name: model
+source_run_id: ac4e83c364ea43e78ee662a47fe7dcf0
+status: 2
+status_message: null

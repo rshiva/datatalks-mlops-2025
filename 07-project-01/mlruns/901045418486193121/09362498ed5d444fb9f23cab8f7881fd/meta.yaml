@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/shiva/workspace/mlops/datatalks-mlops-2025/07-project-01/mlruns/901045418486193121/09362498ed5d444fb9f23cab8f7881fd/artifacts
+end_time: 1752358452946
+entry_point_name: ''
+experiment_id: '901045418486193121'
+lifecycle_stage: active
+run_id: 09362498ed5d444fb9f23cab8f7881fd
+run_name: Training_Pipeline_Run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752358452818
+status: 4
+tags: []
+user_id: shiva

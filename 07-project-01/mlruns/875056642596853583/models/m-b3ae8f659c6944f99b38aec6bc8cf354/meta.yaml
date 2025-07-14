@@ -1,0 +1,10 @@
+artifact_location: file:///Users/shiva/workspace/mlops/datatalks-mlops-2025/07-project-01/mlruns/875056642596853583/models/m-b3ae8f659c6944f99b38aec6bc8cf354/artifacts
+creation_timestamp: 1752215977428
+experiment_id: '875056642596853583'
+last_updated_timestamp: 1752215981063
+model_id: m-b3ae8f659c6944f99b38aec6bc8cf354
+model_type: null
+name: random_forest_model
+source_run_id: 0a2b839056984614b7021da396002490
+status: 2
+status_message: null

@@ -1,0 +1,10 @@
+artifact_location: file:///Users/shiva/workspace/mlops/datatalks-mlops-2025/07-project-01/mlruns/901045418486193121/models/m-a4562ca3eb634d3aac76c99e4e758ba5/artifacts
+creation_timestamp: 1752358743756
+experiment_id: '901045418486193121'
+last_updated_timestamp: 1752358745283
+model_id: m-a4562ca3eb634d3aac76c99e4e758ba5
+model_type: ''
+name: sklearn_model
+source_run_id: 789f6207e4a7467fa0483e1b30a444eb
+status: 2
+status_message: null

@@ -1,0 +1,22 @@
+artifact_path: file:///Users/shiva/workspace/mlops/datatalks-mlops-2025/07-project-01/mlruns/875056642596853583/models/m-b3ae8f659c6944f99b38aec6bc8cf354/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.13
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.1.1
+model_id: m-b3ae8f659c6944f99b38aec6bc8cf354
+model_size_bytes: 8776910
+model_uuid: m-b3ae8f659c6944f99b38aec6bc8cf354
+prompts: null
+run_id: 0a2b839056984614b7021da396002490
+utc_time_created: '2025-07-11 06:39:37.433582'

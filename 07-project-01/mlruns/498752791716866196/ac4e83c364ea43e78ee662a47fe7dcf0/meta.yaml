@@ -1,0 +1,14 @@
+artifact_uri: /Users/shiva/workspace/mlops/datatalks-mlops-2025/07-project-01/mlruns/498752791716866196/ac4e83c364ea43e78ee662a47fe7dcf0/artifacts
+end_time: 1752533862588
+entry_point_name: ''
+experiment_id: '498752791716866196'
+lifecycle_stage: active
+run_id: ac4e83c364ea43e78ee662a47fe7dcf0
+run_name: Mage_Training_Run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752533858221
+status: 3
+tags: []
+user_id: shiva

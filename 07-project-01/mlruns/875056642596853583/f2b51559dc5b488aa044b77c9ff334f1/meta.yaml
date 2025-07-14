@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/shiva/workspace/mlops/datatalks-mlops-2025/07-project-01/mlruns/875056642596853583/f2b51559dc5b488aa044b77c9ff334f1/artifacts
+end_time: 1752215996491
+entry_point_name: ''
+experiment_id: '875056642596853583'
+lifecycle_stage: active
+run_id: f2b51559dc5b488aa044b77c9ff334f1
+run_name: XGBoost_Run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752215993836
+status: 3
+tags: []
+user_id: shiva

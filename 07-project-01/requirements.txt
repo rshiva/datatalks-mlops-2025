@@ -1,0 +1,10 @@
+mlflow==3.1.1
+pandas==2.3.1
+scikit_learn==1.7.0
+# Code Quality Tools
+ruff
+black
+boto3
+psycopg2-binary==2.9.10
+mage-ai==0.9.74
+evidently

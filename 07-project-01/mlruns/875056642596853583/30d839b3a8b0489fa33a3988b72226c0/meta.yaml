@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/shiva/workspace/mlops/datatalks-mlops-2025/07-project-01/mlruns/875056642596853583/30d839b3a8b0489fa33a3988b72226c0/artifacts
+end_time: 1752216022081
+entry_point_name: ''
+experiment_id: '875056642596853583'
+lifecycle_stage: active
+run_id: 30d839b3a8b0489fa33a3988b72226c0
+run_name: LogisticRegression_Run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752216020446
+status: 3
+tags: []
+user_id: shiva

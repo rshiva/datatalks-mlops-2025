@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1752355172976
+current_stage: None
+description: ''
+last_updated_timestamp: 1752355172976
+name: PersonalityClf
+run_id: 76630cf6cabd4a8eb996fbd00cf59ee4
+run_link: ''
+source: models:/PersonalityClf/1
+status: READY
+status_message: null
+storage_location: file:///Users/shiva/workspace/mlops/datatalks-mlops-2025/07-project-01/mlruns/901045418486193121/76630cf6cabd4a8eb996fbd00cf59ee4/artifacts/logistic_regression_model
+user_id: null
+version: 2
